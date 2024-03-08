@@ -33,4 +33,4 @@ THEN I find a concise, descriptive title
 
 ## Improved Page
 
-https://catdelaney.github.io/Module-1-Challenge/
+https://catdelaney.github.io/UoT-Module1-Challenge/
